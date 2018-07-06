@@ -5,7 +5,7 @@ We link Javascript files to our webpages by like this:
 
 ```HTML
 <html>
-	<head>
+  <head>
     <title></title>
     <link rel="stylesheet" href="style.css">
     <script type="text/javascript" src="script.js"></script>
