@@ -1,9 +1,31 @@
+# First Things First
+### Show & Tell
+- asldfj
+- s
+- asdlfkj;
+
+### Reminder The 3 Steps of updating your Git
+1. asdl;kfj
+2. as;ldfjsak
+3. s;alkdfjsl;dfjlska;jf
+
+### Asking for Help
+1. Ask Google
+2. Ask your neighbor
+3. Ask Nabil or Sean
+
+### Clone into this repository
+In your terminal:
+
+``git clone `` 
+
 # Introduction to JavaScript
 JavaScript is the programming language of the web. Although it's capable of so much more, today we'll focus on how it can be used to add interactivity to your webpages.
 
 We link Javascript files to our webpages by like this:
 
 ```HTML
+<!doctype html>
 <html>
   <head>
     <title></title>
@@ -13,7 +35,6 @@ We link Javascript files to our webpages by like this:
   <body>
     <div>
       <h1>Hello, Gakko!</h1>
-      <h2>We are the <a href="">Code Forward</a> class of 2018.</h2>
       <p></p>
     </div>
   </body>
@@ -56,6 +77,7 @@ We're telling the browser, "Hey, `document`! Select a `div`, and change its `sty
 >document.querySelector('body').style.textTransform = "uppercase";
 >```
 > The key difference is `text-transform` in CSS vs `textTransform` in JS
+
 
 
 
