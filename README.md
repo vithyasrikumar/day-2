@@ -5,9 +5,9 @@
 - asdlfkj;
 
 ### Reminder The 3 Steps of updating your Git
-1. asdl;kfj
-2. as;ldfjsak
-3. s;alkdfjsl;dfjlska;jf
+1. `git add .`
+2. `git commit -m "this is a descriptive commit message"`
+3. `git push origin master`
 
 ### Asking for Help
 1. Ask Google
@@ -17,7 +17,7 @@
 ### Clone into this repository
 In your terminal:
 
-``git clone `` 
+``git clone https://github.com/code-forward/day-2.git`` 
 
 # Introduction to JavaScript
 JavaScript is the programming language of the web. Although it's capable of so much more, today we'll focus on how it can be used to add interactivity to your webpages.
