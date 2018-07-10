@@ -1,9 +1,9 @@
 # First Things First
 ### Show & Tell
-- irina0802.github.io/day-1/
-- vithyasrikumar.github.io/day-1/
-- riyakoshy.github.io/day-1/
-- ashabooga.github.io/day-1/
+- [irina0802.github.io/day-1/](irina0802.github.io/day-1/)
+- [vithyasrikumar.github.io/day-1/](vithyasrikumar.github.io/day-1/)
+- [riyakoshy.github.io/day-1/](riyakoshy.github.io/day-1/)
+- [ashabooga.github.io/day-1/](ashabooga.github.io/day-1/)
 
 ### Reminder The 3 Steps of updating your Git
 1. `git add .`
