@@ -1,6 +1,4 @@
-window.onload = function () {
-	
-	document.querySelector('.puzzle-0').addEventListener('click', function() {
+document.querySelector('.puzzle-0').addEventListener('click', function() {
 	  window.alert('Hello, World!');
 	});
 
@@ -59,6 +57,3 @@ window.onload = function () {
 	document.querySelector('.puzzle-14')
 
 	document.querySelector('.puzzle-15')
-
-
-}
