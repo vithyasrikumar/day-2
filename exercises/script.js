@@ -71,7 +71,10 @@ document.querySelector('.puzzle-0').addEventListener('click', function() {
 	});
 
 	document.querySelector('.puzzle-14').addEventListener('click', function() {
-		link.href(.disable) = '';
+		document.querySelector(".disable").href = '';
+		document.querySelector(".disable").addEventListener('click', function() {
+			window.alert("you're going to leave the page!");
+		});
 	});
 
 	document.querySelector('.puzzle-15').addEventListener('click', function() {
